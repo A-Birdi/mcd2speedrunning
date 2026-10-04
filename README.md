@@ -4,7 +4,7 @@ Speedrun site
 
 ## Development
 
-Node 24.19.0, exact dependencies and lockfile. Run `npm ci`, then `npm run dev`. Run `npm run check` before a checkpoint (18 regression tests, static rendering smoke, content/schema checks, TypeScript and production build). Browser/visual QA remains a separate publication gate. The build uses `/mcd2speedrunning/` and hash routing for GitHub Pages.
+Node 24.19.0, exact dependencies and lockfile. Run `npm ci`, then `npm run dev`. Run `npm run check` before a checkpoint (21 regression tests, static rendering smoke, content/schema checks, TypeScript and production build). Run `npx playwright install --with-deps chromium firefox` and `npm run test:browser` for desktop Chromium/Firefox and touch/reduced-motion acceptance tests. CI retains screenshots and browser traces. The build uses `/mcd2speedrunning/` and hash routing for GitHub Pages.
 
 ## Content
 
@@ -16,4 +16,4 @@ Deployment is not implied by a committed workflow. See `docs/HANDOFF.md` for ver
 
 ## Current delivery status
 
-The site shell, complete migration, studio and branching route guide are implemented. Publication is pending browser QA and Pages configuration. No public site URL has been verified. Pushes run automated checks; publishing requires a manual workflow dispatch after that gate.
+The site shell, complete migration, studio and branching route guide are implemented. Pages is enabled. Its existing branch deployment serves raw source HTML and currently renders blank. The compiled application is awaiting the new CI browser checks and responsive screenshot review. See the handoff for the exact verified deployment status.

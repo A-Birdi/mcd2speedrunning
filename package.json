@@ -16,18 +16,20 @@
     "check": "npm test && npm run smoke && npm run build",
     "preview": "vite preview --host 0.0.0.0",
     "smoke": "node scripts/render-smoke.mjs",
-    "revision": "node scripts/refresh-revision.mjs"
+    "revision": "node scripts/refresh-revision.mjs",
+    "test:browser": "playwright test"
   },
   "dependencies": {
+    "jszip": "3.10.1",
     "react": "19.3.0",
-    "react-dom": "19.3.0",
-    "jszip": "3.10.1"
+    "react-dom": "19.3.0"
   },
   "devDependencies": {
-    "vite": "8.3.2",
-    "typescript": "5.9.3",
+    "@playwright/test": "1.63.0",
     "@types/react": "19.2.14",
     "@types/react-dom": "19.2.3",
-    "@vitejs/plugin-react": "6.0.1"
+    "@vitejs/plugin-react": "6.0.1",
+    "typescript": "5.9.3",
+    "vite": "8.3.2"
   }
 }

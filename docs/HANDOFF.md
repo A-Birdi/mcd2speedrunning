@@ -31,11 +31,11 @@ GitHub Actions independently passed the push validation workflow for product f5e
 
 ## Deployment state
 
-**Not published; no public application URL has been verified.**
-A GitHub Actions workflow validates pushes/PRs. Publishing is a separate manual workflow dispatch, after browser QA and repository Pages configuration as GitHub Actions. Automatic push deployment is deliberately gated because the brief requires browser/responsive checks before publication.
-Repository metadata read after the product push explicitly reports has_pages: false. The current connector cannot configure the Pages settings endpoint. Pages is not enabled, and no deployment has been performed.
+Pages is now enabled (has_pages: true). The existing branch-source deployment run 37238104196 succeeded but published repository HTML referencing /src/main.tsx. The public URL https://a-birdi.github.io/mcd2speedrunning/ was inspected and rendered blank. This is not a working application deployment.
 
-The internal managed preview service reported running, but the cloud browser rejected navigation to its prescribed address with ERR_BLOCKED_BY_CLIENT, followed by a browser URL security-policy denial. That denied browser action was not bypassed. A local Playwright browser download also failed with a truncated/non-ZIP response before any browser ran. Consequently Chromium/Firefox interactions, touch/mobile, keyboard, reduced motion, responsive visual checks, direct-link refresh and the full independent authoring UI exercise remain **unexecuted**, not passed.
+The completion checkpoint adds browser acceptance tests (Chromium, Firefox and touch/reduced-motion), evidence artifacts and the compiled dist upload. Its deployment remains manual until those tests and screenshot review pass. A later verified publishing checkpoint will enable automatic validated main deployment.
+
+Local verification for the completion checkpoint: 21 Node tests, static React rendering smoke, full content validation, TypeScript, production build and exact 35/46 migration audit passed. New browser tests are authored but have not run yet. Fresh live Sheet reads exactly match the saved Entries/Videos source snapshot. Sheet remains unchanged.
 
 ## Content gaps
 
@@ -47,4 +47,4 @@ The internal managed preview service reported running, but the cloud browser rej
 
 ## Next concrete task
 
-Run browser/visual QA in an authorized browser-capable environment, fix any observed issues, then configure only this repository's Pages source as GitHub Actions and manually run Validate and publish GitHub Pages. Verify its result and the actual deployed URL including hash-route refresh under the subpath before claiming publication. Use docs/CONTENT_EDITING.md for the independent description/new-discovery/screenshot/tutorial/branch-reorder exercise. Do not infer missing content or edit the Sheet.
+Run the browser suite in GitHub Actions, inspect its responsive screenshots, fix any failures, then enable automatic built-dist deployment and verify the public URL and hash refresh. Repository Pages settings should use GitHub Actions as the source. Keep the actual Any% route and missing geographic/image inputs explicitly pending.

@@ -13,3 +13,5 @@ Validation checks shapes, IDs, entry/method/media references, missing destinatio
 Schema-valid, dependency-reviewed and gameplay-tested are separate statuses. The latter two are author assertions based on review/testing; the editor does not infer them from videos. Leave unknown timing and reliability blank. Observations require a basis/date.
 
 Undo/redo, save, import and export use the same studio workflow as catalog content. After a valid export, copy its route JSON to the exact `content/routes/` path and commit. Newly added guides are automatically loaded from those files; no UI code change is required.
+
+An empty Next uses the next ordered visit (or the stage destination for an alternative). Choose **Guide ends here** to terminate a branch independently. This prevents unrelated terminal alternatives from being serialized together. Stage rationale is readable below each node and exposed to keyboard focus, with a persistent details panel.
