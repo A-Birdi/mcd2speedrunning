@@ -7,8 +7,15 @@ export function searchText(entry, catalog) {
   const values = [entry, ...regionsFor(entry, catalog).map(id => catalog.regions.find(r => r.id === id)?.name),
     ...entry.subsectionIds.map(id => catalog.subsections.find(s => s.id === id)?.name),
     ...related.map(id => catalog.entries.find(e => e.id === id)?.title),
-    ...entry.mediaIds.map(id => catalog.videos.find(v => v.id === id))];
-  return JSON.stringify(values).toLocaleLowerCase();
+    ...[...new Set([...entry.mediaIds, ...entry.methods.flatMap(m => m.mediaIds)])].map(id => catalog.videos.find(v => v.id === id))];
+  const strings = [];
+  const collect = value => {
+    if (typeof value === 'string') strings.push(value);
+    else if (Array.isArray(value)) value.forEach(collect);
+    else if (value && typeof value === 'object') Object.values(value).forEach(collect);
+  };
+  values.forEach(collect);
+  return strings.join(' ').toLocaleLowerCase();
 }
 
 export function matchesSearch(entry, catalog, query) {

@@ -16,4 +16,4 @@ Deployment is not implied by a committed workflow. See `docs/HANDOFF.md` for ver
 
 ## Current delivery status
 
-The site shell, complete migration, studio and branching route guide are implemented. Pages is enabled. Its existing branch deployment serves raw source HTML and currently renders blank. The compiled application is awaiting the new CI browser checks and responsive screenshot review. See the handoff for the exact verified deployment status.
+The site shell, complete migration, studio and branching route guide are implemented. The full catalog reader, form studio and branching guide are implemented. All 12 browser acceptance tests passed in Chromium, Firefox and touch/reduced-motion configurations, including independent author edits and ZIP restore. Main commits now deploy the compiled application only after these checks pass. See the handoff for the exact verified public deployment status and any remaining repository Pages configuration step.

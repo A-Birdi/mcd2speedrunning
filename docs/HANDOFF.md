@@ -23,7 +23,7 @@ Acceptance-hardening product checkpoint: f5e12ef098c5b65ad31b5b872440afe2196cc28
 
 ## Latest verification
 
-18 Node regression tests passed, no failures/skips.
+21 Node regression tests passed, no failures/skips.
 Static React rendering smoke passed for Tech, all entries, Honeycomb Fields, an entry, branching example and three studio tabs. This is component rendering, **not browser or visual QA**.
 TypeScript, runtime/build content validation and Vite production build passed.
 Initial migration audit passed: 35/35 entries and 46/46 exact source records and ordered associations.
@@ -31,11 +31,13 @@ GitHub Actions independently passed the push validation workflow for product f5e
 
 ## Deployment state
 
-Pages is now enabled (has_pages: true). The existing branch-source deployment run 37238104196 succeeded but published repository HTML referencing /src/main.tsx. The public URL https://a-birdi.github.io/mcd2speedrunning/ was inspected and rendered blank. This is not a working application deployment.
+Pages is enabled. Its original branch-source run 37238104196 published raw source HTML and the public URL rendered blank. This is being replaced by the compiled dist artifact.
 
-The completion checkpoint adds browser acceptance tests (Chromium, Firefox and touch/reduced-motion), evidence artifacts and the compiled dist upload. Its deployment remains manual until those tests and screenshot review pass. A later verified publishing checkpoint will enable automatic validated main deployment.
+Browser acceptance checkpoint 572b8fc6b259689e98ca45556a340759336d9bbb passed GitHub Actions run 37241624350 (https://github.com/A-Birdi/mcd2speedrunning/actions/runs/37241624350): all 12 browser tests passed across Chromium, Firefox and touch/reduced-motion. Desktop and 320/390px shell, entry, branching chart and studio screenshots were downloaded and visually inspected. The independent form exercise corrected a description, added a discovery/tutorial/screenshot, reordered alternatives, exported exact paths/bytes and restored the ZIP. Stale imports and newer-upstream export attempts were blocked without replacing the draft. These fixtures stayed local to the test browsers and were never added to catalog content.
 
-Local verification for the completion checkpoint: 21 Node tests, static React rendering smoke, full content validation, TypeScript, production build and exact 35/46 migration audit passed. New browser tests are authored but have not run yet. Fresh live Sheet reads exactly match the saved Entries/Videos source snapshot. Sheet remains unchanged.
+The publishing checkpoint enables validated automatic main deployment; PRs only validate. A public URL must still be inspected after its deployment before claiming publication. The GitHub plugin is authenticated as A-Birdi, but exposes no Pages settings action. The separate browser sign-in was not completed. The repository publishing source should be switched from its existing branch setting to GitHub Actions to remove the competing raw-source workflow and ensure failed validations retain the previous built site. No account-level domain/DNS settings are involved.
+
+Fresh live Sheet reads exactly matched the saved Entries/Videos source snapshot. Sheet remains unchanged. Local content tests, static render smoke, content/type/build checks and the exact 35/46 migration audit passed.
 
 ## Content gaps
 
@@ -47,4 +49,4 @@ Local verification for the completion checkpoint: 21 Node tests, static React re
 
 ## Next concrete task
 
-Run the browser suite in GitHub Actions, inspect its responsive screenshots, fix any failures, then enable automatic built-dist deployment and verify the public URL and hash refresh. Repository Pages settings should use GitHub Actions as the source. Keep the actual Any% route and missing geographic/image inputs explicitly pending.
+Verify the automatic compiled-dist deployment at https://a-birdi.github.io/mcd2speedrunning/ including entry/region/guide refresh. Finish the repository-only Pages source setting as GitHub Actions. Keep the actual Any% route and missing geographic/image inputs explicitly pending.
