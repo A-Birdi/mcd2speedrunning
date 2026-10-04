@@ -59,5 +59,8 @@
   "legacy": {
     "dateSerial": 46295,
     "expectedVideoCount": 3
-  }
+  },
+  "relatedEntryIds": [
+    "MCD2-001"
+  ]
 }

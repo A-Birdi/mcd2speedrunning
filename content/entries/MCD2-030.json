@@ -55,5 +55,6 @@
   "legacy": {
     "dateSerial": 46296,
     "expectedVideoCount": 2
-  }
+  },
+  "relatedEntryIds": []
 }

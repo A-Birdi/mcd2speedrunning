@@ -1,0 +1,2 @@
+export function regionsFor(entry,catalog){return [...new Set([...entry.regionIds,...entry.subsectionIds.map(id=>catalog.subsections.find(s=>s.id===id)?.regionId).filter(Boolean)])];}
+export function locationPending(entry,catalog){if(entry.locationStatus==='general')return false;return !regionsFor(entry,catalog).length||entry.subsectionIds.some(id=>!catalog.subsections.find(s=>s.id===id)?.regionId);}

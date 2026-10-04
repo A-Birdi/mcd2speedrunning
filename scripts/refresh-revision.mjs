@@ -1,0 +1,1 @@
+import fs from'node:fs';import{load}from'./load-content.mjs';import{revisionFor}from'../src/validation.mjs';const c=load();c.meta.revision=await revisionFor(c);fs.writeFileSync('content/meta.json',JSON.stringify(c.meta,null,2)+'\n');console.log('Content revision updated: '+c.meta.revision);
