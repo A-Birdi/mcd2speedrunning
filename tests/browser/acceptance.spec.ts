@@ -116,7 +116,7 @@ test('independent author edits export and restore exact catalog, screenshot and 
   await editor.getByRole('button',{name:'Subsections & screenshots',exact:true}).click();
   await editor.getByRole('button',{name:'Add subsection',exact:true}).click();
   await editor.getByLabel('Live-text subsection name').fill('Acceptance image fixture');
-  await editor.getByLabel('Confirmed region',{exact:true}).selectOption('honeycomb-fields');
+  await editor.getByRole('combobox',{name:'Confirmed region',exact:true}).selectOption('honeycomb-fields');
   await editor.getByLabel(/Add screenshot/).setInputFiles({name:'acceptance.png',mimeType:'image/png',buffer:png});
   await expect(editor.getByLabel('Alt text',{exact:true})).toBeVisible();
   await editor.getByLabel('Alt text',{exact:true}).fill('Test fixture, not game imagery');
