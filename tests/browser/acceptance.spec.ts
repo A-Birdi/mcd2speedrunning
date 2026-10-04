@@ -144,6 +144,7 @@ test('independent author edits export and restore exact catalog, screenshot and 
   await page.reload();
   await editor.getByLabel('Import draft JSON or studio ZIP').setInputFiles({name:'restore.zip',mimeType:'application/zip',buffer:bytes});
   await expect(editor.getByRole('status')).toContainText('Draft restored successfully');
+  await editor.getByRole('button',{name:'Discoveries & methods',exact:true}).click();
   await expect(editor.getByLabel('Summary / use case')).toHaveValue('Acceptance exercise: description correction.');
   await editor.getByRole('button',{name:'Preview catalog',exact:true}).click();
   await expect(page.locator('.preview-banner')).toContainText('Local draft preview');
