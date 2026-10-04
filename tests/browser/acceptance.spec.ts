@@ -5,7 +5,7 @@ import JSZip from 'jszip';
 const tabs = ['Tech','Squid Coast','Brave Haven','Honeycomb Fields','Howling Woods','Rainy Plains','Frozen Highlands',"Singer's Meadow",'Humbler Huskland','Lullaby Hills','Illager Stronghold','Speedrun Guides'];
 const studio = (page: Page) => page.locator('main > div:not([hidden]) > section');
 const route = (page: Page) => page.locator('main > section');
-const png = Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+aN1kAAAAASUVORK5CYII=', 'base64');
+const png = Buffer.from('iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAAF0lEQVR4nGMMCAhgIAUwkaR6VAOtNAAArNkBAsCIR8QAAAAASUVORK5CYII=', 'base64');
 
 test.beforeEach(async ({page}) => {
   const errors: string[] = [];
