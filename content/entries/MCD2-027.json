@@ -1,0 +1,57 @@
+{
+  "id": "MCD2-027",
+  "title": "Final Boss Cheese",
+  "aliases": [],
+  "summary": "",
+  "type": "strategy",
+  "originalCategory": "Boss strategy",
+  "regionIds": [],
+  "subsectionIds": [],
+  "locationStatus": "unassigned",
+  "instructions": "Roll jumping or DuckJumping around the barrier at the arena entrance lets you punish the boss for free from a pillar.",
+  "notes": "",
+  "credits": {
+    "discovery": "Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-10-01",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-035"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-027-method-1",
+      "title": "Imported method",
+      "instructions": "Roll jumping or DuckJumping around the barrier at the arena entrance lets you punish the boss for free from a pillar.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-035"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46296,
+    "expectedVideoCount": 1
+  }
+}

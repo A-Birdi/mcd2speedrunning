@@ -1,0 +1,65 @@
+{
+  "id": "MCD2-002",
+  "title": "Ichor / Orange / Red Tower Skips",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [],
+  "subsectionIds": [
+    "ichor-tower",
+    "orange-tower",
+    "red-tower"
+  ],
+  "locationStatus": "unassigned",
+  "instructions": "Using Jump Tech you can skip all floors beyond the first/ground level in every tower in the Rainy zone.\n\nThis allows you to skip directly to the end, backwards, entering through the return exit of each tower.",
+  "notes": "The Red Tower does not require Jump Tech to be skipped.",
+  "credits": {
+    "discovery": "Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-29",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-005",
+    "VID-006",
+    "VID-007"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-002-method-1",
+      "title": "Imported method",
+      "instructions": "Using Jump Tech you can skip all floors beyond the first/ground level in every tower in the Rainy zone.\n\nThis allows you to skip directly to the end, backwards, entering through the return exit of each tower.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-005",
+        "VID-006",
+        "VID-007"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46294,
+    "expectedVideoCount": 3
+  }
+}

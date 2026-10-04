@@ -1,0 +1,59 @@
+{
+  "id": "MCD2-013",
+  "title": "Ichor Tower Key Skip",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [],
+  "subsectionIds": [
+    "ichor-tower"
+  ],
+  "locationStatus": "unassigned",
+  "instructions": "By jumping across props and walls in the room, you can skip using Keys to unlock the stairs on the first floor.",
+  "notes": "",
+  "credits": {
+    "discovery": "Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-017"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-013-method-1",
+      "title": "Imported method",
+      "instructions": "By jumping across props and walls in the room, you can skip using Keys to unlock the stairs on the first floor.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-017"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 1
+  }
+}

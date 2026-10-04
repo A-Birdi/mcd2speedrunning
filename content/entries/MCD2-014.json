@@ -1,0 +1,59 @@
+{
+  "id": "MCD2-014",
+  "title": "Illager Stronghold Gold Key Skip",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [
+    "illager-stronghold"
+  ],
+  "subsectionIds": [],
+  "locationStatus": "partially-confirmed",
+  "instructions": "By using a Movement Speed Boosted DuckJump, you can jump around a gold key door.",
+  "notes": "",
+  "credits": {
+    "discovery": "TheVoid",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-018"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-014-method-1",
+      "title": "Imported method",
+      "instructions": "By using a Movement Speed Boosted DuckJump, you can jump around a gold key door.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-018"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 1
+  }
+}

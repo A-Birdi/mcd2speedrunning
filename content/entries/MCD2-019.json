@@ -1,0 +1,59 @@
+{
+  "id": "MCD2-019",
+  "title": "Deep Dark Exit Shortcut Early",
+  "aliases": [],
+  "summary": "",
+  "type": "reference",
+  "originalCategory": "Exploration",
+  "regionIds": [],
+  "subsectionIds": [
+    "deep-dark"
+  ],
+  "locationStatus": "unassigned",
+  "instructions": "Doing some precise roll-jumps or DuckJumps you can access the Deep Dark Exit area early.",
+  "notes": "The door is not loaded until you exit via the quest, so this is currently just documentation.",
+  "credits": {
+    "discovery": "Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-023"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-019-method-1",
+      "title": "Imported method",
+      "instructions": "Doing some precise roll-jumps or DuckJumps you can access the Deep Dark Exit area early.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-023"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 1
+  }
+}

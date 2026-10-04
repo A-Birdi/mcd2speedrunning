@@ -1,0 +1,63 @@
+{
+  "id": "MCD2-001",
+  "title": "Duck Jumps / Jump Tech",
+  "aliases": [],
+  "summary": "",
+  "type": "tech",
+  "originalCategory": "Movement",
+  "regionIds": [],
+  "subsectionIds": [],
+  "locationStatus": "general",
+  "instructions": "While walking against a solid object or wall, roll at a precise enough angle so that your character slides off the corner of the object or wall at the last moment, while mashing jump. This can be timed more appropriately by watching for the white speed lines on the ground from the roll to disappear [Credit to John Sézchavèire for the timing], and jumping at that point.\n\nThis provides extra forward momentum in the direction you rolled, and can be steered mid-air, during the jump. The momentum you gain can be boosted by having movement speed boosting effects, such as the Deathcap Mushroom or the shared Tempo Truffle / Springload / Tempo Theft boosts, allowing further distance to be gained.\n\nThis can additionally be done by rolling from afar, but is more difficult.",
+  "notes": "",
+  "credits": {
+    "discovery": "Ducky",
+    "refinement": "John Sézchavèire (roll timing)",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-29",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-001",
+    "VID-002",
+    "VID-003",
+    "VID-004"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-001-method-1",
+      "title": "Imported method",
+      "instructions": "While walking against a solid object or wall, roll at a precise enough angle so that your character slides off the corner of the object or wall at the last moment, while mashing jump. This can be timed more appropriately by watching for the white speed lines on the ground from the roll to disappear [Credit to John Sézchavèire for the timing], and jumping at that point.\n\nThis provides extra forward momentum in the direction you rolled, and can be steered mid-air, during the jump. The momentum you gain can be boosted by having movement speed boosting effects, such as the Deathcap Mushroom or the shared Tempo Truffle / Springload / Tempo Theft boosts, allowing further distance to be gained.\n\nThis can additionally be done by rolling from afar, but is more difficult.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-001",
+        "VID-002",
+        "VID-003",
+        "VID-004"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46294,
+    "expectedVideoCount": 4
+  }
+}

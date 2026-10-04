@@ -1,0 +1,787 @@
+{
+  "entries": {
+    "range": "Entries!A1:H200",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Entry ID",
+        "Technique",
+        "Category",
+        "Found by",
+        "Discovery date",
+        "Method / instructions",
+        "Notes",
+        "Videos"
+      ],
+      [
+        "MCD2-001",
+        "Duck Jumps / Jump Tech",
+        "Movement",
+        "Ducky",
+        46294,
+        "While walking against a solid object or wall, roll at a precise enough angle so that your character slides off the corner of the object or wall at the last moment, while mashing jump. This can be timed more appropriately by watching for the white speed lines on the ground from the roll to disappear [Credit to John Sézchavèire for the timing], and jumping at that point.\n\nThis provides extra forward momentum in the direction you rolled, and can be steered mid-air, during the jump. The momentum you gain can be boosted by having movement speed boosting effects, such as the Deathcap Mushroom or the shared Tempo Truffle / Springload / Tempo Theft boosts, allowing further distance to be gained.\n\nThis can additionally be done by rolling from afar, but is more difficult.",
+        "",
+        4
+      ],
+      [
+        "MCD2-002",
+        "Ichor / Orange / Red Tower Skips",
+        "Route skips",
+        "Birdi",
+        46294,
+        "Using Jump Tech you can skip all floors beyond the first/ground level in every tower in the Rainy zone.\n\nThis allows you to skip directly to the end, backwards, entering through the return exit of each tower.",
+        "The Red Tower does not require Jump Tech to be skipped.",
+        3
+      ],
+      [
+        "MCD2-003",
+        "Jump Pad Boost",
+        "Movement",
+        "Gardenia",
+        46294,
+        "Jumping Heavy Attacking on top of Jump Pads provides you with extra launch momentum, likely due to overlapping frames where you remain in contact\n\nThis can provide extreme boosts in unintended ways",
+        "",
+        1
+      ],
+      [
+        "MCD2-004",
+        "Prime Enchanter Instakill",
+        "Boss strategy",
+        "Birdi",
+        46294,
+        "Utilizing a Jump Pad Boost to cross slightly further into the very center of the boss arena will have you respawn at the Jump Pad and initiate the fight\n\nThis must be done after Restarting from Checkpoint once, to return to the Jump Pad.\n\nAfter waiting some time, or doing another Jump Pad Boost, the boss will target you with an electric dive bomb. Wait on the edge for the electricity, then walk around the jump pad.\n\nOnce the boss lands near the Jump pad, he'll try to punch you, run into the jump pad himself and perish in the pit, as he does not clear the jump.\n\nAlternatively, if he misses the jump pad, stay near the edge and he'll do a flying lunge / straight dive attack and can fall off the edge from there that way.",
+        "",
+        1
+      ],
+      [
+        "MCD2-005",
+        "Out of Bounds",
+        "Exploration",
+        "Many People",
+        46294,
+        "In many areas of the game, it's possible to reach unintended areas either via jumping, teleports in Co-op, or falling into any out of bounds pit repeatedly without touching solid ground.",
+        "General reference note; no dedicated video is planned. Notable out-of-bounds examples are documented in the individual skip entries.",
+        0
+      ],
+      [
+        "MCD2-006",
+        "Frozen Fortress Corrupted Ambush Skip",
+        "Route skips",
+        "Ducky",
+        46295,
+        "Jumping on a prop near a wall will let you jump past the wall, which skips waiting for the bridge.",
+        "As this is a required quest objective, this is useful only in Co-op to save time running to the boss afterward.",
+        1
+      ],
+      [
+        "MCD2-007",
+        "Early Archie's Ruins Minecart Station",
+        "Route skips",
+        "Ducky",
+        46295,
+        "By doing a roll jump or DuckJump, you can scale the exterior of a wall on the outside of Archie's Ruins, which skips the need to lower the gates to access the Minecart Station.",
+        "",
+        1
+      ],
+      [
+        "MCD2-008",
+        "Sift Dimension Out of Bounds",
+        "Exploration",
+        "Album",
+        46295,
+        "Doing a DuckJump from atop a pillar can allow you to access a middle section, closer to a Minecart Station in the sift.",
+        "",
+        1
+      ],
+      [
+        "MCD2-009",
+        "Major Out of Bounds: Brave Haven to Rainy / Frozen Zones",
+        "Exploration",
+        "Gardenia and Birdi",
+        46295,
+        "Doing a co-op teleport at a wall in Brave Haven, or a hard DuckJump off the same wall can allow access to Out of Bounds on the lower half of the map.\n\nThis allows players to walk from the start of the game to Woodcutter's Outpost, and from there into the Rainy Zone, allowing access to the Thrifty Pendant talisman early, as well as Puddle Pond and Ichor Tower Minecart Stations.\n\nIt also allows access to the Frozen Zone, providing access to early Shipwreck, Archie's Ruins and Frozen Fortress Minecart stations.",
+        "",
+        2
+      ],
+      [
+        "MCD2-010",
+        "Spider Cave Reverse",
+        "Route skips",
+        "ExoticPanda and Album",
+        46295,
+        "Doing a DuckJump with a movement speed increase, or a more difficult DuckJump at regular speed, will allow you to jump backwards through the Spider Cave, skipping a spider ambush and direct access to the quest objective ambush.",
+        "",
+        3
+      ],
+      [
+        "MCD2-011",
+        "FPS Tech: Increase roll distance",
+        "Movement",
+        "Album",
+        46295,
+        "Lower framerates allow a slight increase in roll distance, by about 1/5th of a block at 24FPS.",
+        "",
+        1
+      ],
+      [
+        "MCD2-012",
+        "Orange Tower Ambush Skip",
+        "Route skips",
+        "Birdi",
+        46295,
+        "By doing a DuckJump off a barrel and onto a crate, you can skip the first floor Ambush.",
+        "",
+        1
+      ],
+      [
+        "MCD2-013",
+        "Ichor Tower Key Skip",
+        "Route skips",
+        "Birdi",
+        46295,
+        "By jumping across props and walls in the room, you can skip using Keys to unlock the stairs on the first floor.",
+        "",
+        1
+      ],
+      [
+        "MCD2-014",
+        "Illager Stronghold Gold Key Skip",
+        "Route skips",
+        "TheVoid",
+        46295,
+        "By using a Movement Speed Boosted DuckJump, you can jump around a gold key door.",
+        "",
+        1
+      ],
+      [
+        "MCD2-015",
+        "Lever Bridge Skip",
+        "Route skips",
+        "ExoticPanda",
+        46295,
+        "Doing a DuckJump around the first lowerable bridge in Honeycomb Fields will allow access to Howling Woods early.",
+        "The bridge itself is a main quest objective, so maybe useful in Co-op.",
+        1
+      ],
+      [
+        "MCD2-016",
+        "Spider Cave Ambush 1 Skip",
+        "Route skips",
+        "Birdi",
+        46295,
+        "Doing a diagonal roll will allow you to jump midair around the wall and past the Ambush barrier.",
+        "Online characters can simply jump around it without rolling, but may be connection dependent.",
+        1
+      ],
+      [
+        "MCD2-017",
+        "Howling Woods Ravine Skip",
+        "Route skips",
+        "Birdi",
+        46295,
+        "Doing a DuckJump off a wall will let you skip over a gap, saving a few seconds if you land it.",
+        "Can be a roll jump through the middle, too.",
+        1
+      ],
+      [
+        "MCD2-018",
+        "Early Deep Dark Minecart",
+        "Route skips",
+        "Birdi",
+        46295,
+        "By going out of bounds with a DuckJump or a tight block-edge regular jump you can access the Deep Dark Minecart station early.",
+        "",
+        1
+      ],
+      [
+        "MCD2-019",
+        "Deep Dark Exit Shortcut Early",
+        "Exploration",
+        "Birdi",
+        46295,
+        "Doing some precise roll-jumps or DuckJumps you can access the Deep Dark Exit area early.",
+        "The door is not loaded until you exit via the quest, so this is currently just documentation.",
+        1
+      ],
+      [
+        "MCD2-020",
+        "Monarch Skip",
+        "Route skips",
+        "Jane Iris Clover",
+        46295,
+        "Jumping up on the Ichor Core platform and up onto the wall will allow you to bypass the gate that normally requires the Monarch to be defeated and Cores to be gathered.",
+        "Possibly useful in Co-op.",
+        1
+      ],
+      [
+        "MCD2-021",
+        "Invalid Teleport State",
+        "Exploration",
+        "Album",
+        46295,
+        "By starting a Teleport to Brave Haven solo, then returning to the Main Menu and rejoining the game, your character is put into a stuck/invalid/fake teleporting state that prevents Out of Bounds triggers from teleporting you back up.",
+        "",
+        1
+      ],
+      [
+        "MCD2-022",
+        "100% Consistent Prime Enchanter Instakill",
+        "Boss strategy",
+        "Birdi",
+        46295,
+        "By moving forward normally into the Jump Pad, then rolling directly backwards, your character will fly farther than intended due to stacking momentum added by the Jump Pad over multiple frames of contact.\n\nWhen your character is over the pit in the middle, you can open a Menu or the Mini-Inventory to stop momentum and drop straight down, into the pit, which causes a respawn back at the Jump Pad while starting the fight.\n\nThe Prime Enchanter will then be aggro'd and teleport to you eventually, allowing you to walk around the Jump Pad, forcing him to walk into it and fall into the pit, killing him instantly.",
+        "This works best for Offline characters, as the Jump Pad boost is inconsistent across all players and Offline mode.",
+        1
+      ],
+      [
+        "MCD2-023",
+        "Frozen Fortress Ambush 1 Skip",
+        "Route skips",
+        "Birdi",
+        46295,
+        "By hugging the wall closely you can skip over the Ambush Trigger, allowing you to simply walk up the stairs normally.",
+        "",
+        1
+      ],
+      [
+        "MCD2-024",
+        "Frozen Fortress Ambush 2 Skip",
+        "Route skips",
+        "Birdi",
+        46294,
+        "By jumping around a corner over a pit, an Ambush is skipped in Frozen Fortress.",
+        "",
+        1
+      ],
+      [
+        "MCD2-025",
+        "Sculk Music Door Skip w/ Lineup",
+        "Route skips",
+        "Birdi",
+        46296,
+        "Get stuck on the lower edge between this 3 block structure, line up your cursor with the upper-right gray pixel in the block texture, then DuckJump and steer midair.",
+        "You must free the trapped Tuners from the cages, but you don't need to carry them all back by doing this.",
+        1
+      ],
+      [
+        "MCD2-026",
+        "Illager Stronghold Gold & Blue Key Door Skips",
+        "Route skips",
+        "ExoticPanda",
+        46295,
+        "Using a movement speed boosted duckjump you can roll against a block object and jump around the wall with the gold key door.",
+        "The blue key is normally used to unlock the gold key. Skipping the gold key door therefore removes the need for both keys; no separate blue-door jump is required.",
+        2
+      ],
+      [
+        "MCD2-027",
+        "Final Boss Cheese",
+        "Boss strategy",
+        "Birdi",
+        46296,
+        "Roll jumping or DuckJumping around the barrier at the arena entrance lets you punish the boss for free from a pillar.",
+        "",
+        1
+      ],
+      [
+        "MCD2-028",
+        "Final Souldown Gold Key Door Skip",
+        "Route skips",
+        "ExoticPanda and Birdi",
+        46296,
+        "Using a movement speed boosted DuckJump, you skip over to a ledge, bypassing a huge ambush and going directly into the Redstone Monstrosity fight.",
+        "You need to double back and touch the space behind the door for the objective to update.",
+        1
+      ],
+      [
+        "MCD2-029",
+        "Final Music Door Skip",
+        "Route skips",
+        "Birdi",
+        46296,
+        "Requires doing one ambush for the purple Tuner.\n\nYou don't need to pick any Tuners up; just run over them for the objective. Path in a circle and, when reaching the third one, continue farther to the floating islands.\n\nPositioned against the wall at the Jump Pad, walk laterally straight right and roll on the first frame you would be launched. This skews your launch trajectory, landing you on the upper wall. From there, carefully walk past the Music Door.",
+        "The lineup is tricky and requires practice for timing and angle. Further refinement of the strategy could help.",
+        1
+      ],
+      [
+        "MCD2-030",
+        "Final Portal Ambush Cheese",
+        "Boss strategy",
+        "Birdi",
+        46296,
+        "By walking up to the portal directly, all Melee enemies will follow you and die at its threshold.\n\nYou can get ranged enemies and Corrupted Minibosses like the Evoker to path up there by using a corner just a jump away at its lower right edge.",
+        "",
+        2
+      ],
+      [
+        "MCD2-031",
+        "Baron Jump",
+        "Movement",
+        "Baron_2333",
+        46297,
+        "By moving in a direction, using an Artifact then rolling and jumping simultaneously on the next frame, you can effectively DuckJump from anywhere, with an additional block of height.",
+        "Jump timing: After initiating a Baron Slide or Hyper Baron Slide, there is a brief window to input jump; jumping does not have to be simultaneous with the roll. You can roll off platforms or cliffs, or over pits, and still jump midair.\n\nFPS: Slide distance in both variants depends on FPS. Around 60 FPS is ideal for noticeably greater initial momentum.",
+        2
+      ],
+      [
+        "MCD2-032",
+        "Baron Slide",
+        "Movement",
+        "John Sézchavèire",
+        46297,
+        "Using the Baron Jump setup, use an Artifact and then roll instead of jumping immediately. This makes your character slide fast and far.",
+        "Jump timing: After initiating a Baron Slide or Hyper Baron Slide, there is a brief window to input jump; jumping does not have to be simultaneous with the roll. You can roll off platforms or cliffs, or over pits, and still jump midair.\n\nFPS: Slide distance in both variants depends on FPS. Around 60 FPS is ideal for noticeably greater initial momentum.",
+        0
+      ],
+      [
+        "MCD2-033",
+        "Frozen Fortress Blue Jukebox Exit Early",
+        "Route skips",
+        "Birdi",
+        46298,
+        "Normally while waiting for the door to fully open, it's encased in a thick invisible wall for the animation.\n\nIf you get into the corner of the invisible wall, click to interact and roll into the door, you can skip the animation and wall wait period.",
+        "",
+        1
+      ],
+      [
+        "MCD2-034",
+        "Powered Door Skip",
+        "Route skips",
+        "Gardenia and Birdi",
+        46298,
+        "By doing a Standing Reverse Baron Jump from atop the powered cube pillar you can land on the adjacent wall and skip waiting for the door lowering animation.\n\nSecond video shows a method of using a regular Baron Jump from atop the Minecart station to land on the same wall, from Gardenia's POV.",
+        "",
+        2
+      ],
+      [
+        "MCD2-035",
+        "Hyper Baron Slide / Hyper Baron Jump",
+        "Movement",
+        "Baron_2333",
+        46299,
+        "By having the Somersault enchantment, which grants you an additional roll, and pressing both rolls together (or both rolls having the same input), you can do an extended Hyper Baron Slide or Hyper Baron Jump.",
+        "Jump timing: After initiating a Baron Slide or Hyper Baron Slide, there is a brief window to input jump; jumping does not have to be simultaneous with the roll. You can roll off platforms or cliffs, or over pits, and still jump midair.\n\nFPS: Slide distance in both variants depends on FPS. Around 60 FPS is ideal for noticeably greater initial momentum.",
+        2
+      ]
+    ]
+  },
+  "videos": {
+    "range": "Videos!A1:E200",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Video ID",
+        "Entry ID",
+        "Video title",
+        "Source type",
+        "Source URL"
+      ],
+      [
+        "VID-001",
+        "MCD2-001",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554450155715952682"
+      ],
+      [
+        "VID-002",
+        "MCD2-001",
+        "Video Demo 2",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554496180715790377"
+      ],
+      [
+        "VID-003",
+        "MCD2-001",
+        "Video Demo 3",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554499285389672538"
+      ],
+      [
+        "VID-004",
+        "MCD2-001",
+        "Video Demo 4",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1486048939302977546/1555049127115759668"
+      ],
+      [
+        "VID-005",
+        "MCD2-002",
+        "Ichor Skip",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554551813804392558"
+      ],
+      [
+        "VID-006",
+        "MCD2-002",
+        "Orange Skip",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554552990810243232"
+      ],
+      [
+        "VID-007",
+        "MCD2-002",
+        "Red Skip",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554553988874109061"
+      ],
+      [
+        "VID-008",
+        "MCD2-003",
+        "Video Demo 1",
+        "YouTube",
+        "https://www.youtube.com/watch?v=AUgQXbDqRDA"
+      ],
+      [
+        "VID-009",
+        "MCD2-004",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554595746194661488"
+      ],
+      [
+        "VID-010",
+        "MCD2-006",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555197272877174848"
+      ],
+      [
+        "VID-011",
+        "MCD2-007",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555189492955095133"
+      ],
+      [
+        "VID-012",
+        "MCD2-008",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555072262393172028"
+      ],
+      [
+        "VID-013",
+        "MCD2-009",
+        "Video Demo 1",
+        "YouTube",
+        "https://www.youtube.com/watch?v=npF84mR4wQc"
+      ],
+      [
+        "VID-014",
+        "MCD2-010",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555034310736609330"
+      ],
+      [
+        "VID-015",
+        "MCD2-011",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555033918619656252"
+      ],
+      [
+        "VID-016",
+        "MCD2-012",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555025686039896114"
+      ],
+      [
+        "VID-017",
+        "MCD2-013",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555019483611922435"
+      ],
+      [
+        "VID-018",
+        "MCD2-014",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555007561453797418"
+      ],
+      [
+        "VID-019",
+        "MCD2-015",
+        "Video Demo 1",
+        "YouTube",
+        "https://youtu.be/FcpLh03zVio"
+      ],
+      [
+        "VID-020",
+        "MCD2-016",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554966950218702948"
+      ],
+      [
+        "VID-021",
+        "MCD2-017",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554965063352197250"
+      ],
+      [
+        "VID-022",
+        "MCD2-018",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554956972430729278"
+      ],
+      [
+        "VID-023",
+        "MCD2-019",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554955927327866920"
+      ],
+      [
+        "VID-024",
+        "MCD2-020",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/1515423123342627048/1553751842012405870/1554937326336086028"
+      ],
+      [
+        "VID-025",
+        "MCD2-021",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554936057446015107"
+      ],
+      [
+        "VID-026",
+        "MCD2-022",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554923100234063912"
+      ],
+      [
+        "VID-027",
+        "MCD2-023",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554921881876832326"
+      ],
+      [
+        "VID-028",
+        "MCD2-024",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1554922855110672464"
+      ],
+      [
+        "VID-029",
+        "MCD2-025",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555387126961406026"
+      ],
+      [
+        "VID-030",
+        "MCD2-010",
+        "Video Demo 2",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555032012744691784"
+      ],
+      [
+        "VID-031",
+        "MCD2-010",
+        "Video Demo 3",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555032998657654804"
+      ],
+      [
+        "VID-032",
+        "MCD2-009",
+        "Video Demo 2",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1486048939302977546/1555185928220319846"
+      ],
+      [
+        "VID-033",
+        "MCD2-026",
+        "Video Demo 1",
+        "YouTube",
+        "https://youtu.be/hFuo05oSusk"
+      ],
+      [
+        "VID-034",
+        "MCD2-026",
+        "Video Demo 2",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555007561453797418"
+      ],
+      [
+        "VID-035",
+        "MCD2-027",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555409581172199454"
+      ],
+      [
+        "VID-036",
+        "MCD2-028",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555421922206941234"
+      ],
+      [
+        "VID-037",
+        "MCD2-029",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555422964676300884"
+      ],
+      [
+        "VID-038",
+        "MCD2-030",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555420763853557780"
+      ],
+      [
+        "VID-039",
+        "MCD2-030",
+        "Video Demo 2",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555420876931997777"
+      ],
+      [
+        "VID-040",
+        "MCD2-031",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555660336957227088"
+      ],
+      [
+        "VID-041",
+        "MCD2-031",
+        "Video Demo 2",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1555666600240095372"
+      ],
+      [
+        "VID-042",
+        "MCD2-033",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1556095869487546398"
+      ],
+      [
+        "VID-043",
+        "MCD2-034",
+        "Video Demo 1 — Pillar",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1556098226753507416"
+      ],
+      [
+        "VID-044",
+        "MCD2-034",
+        "Video Demo 2 — Gardenia POV",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1556098293606645783"
+      ],
+      [
+        "VID-045",
+        "MCD2-035",
+        "Video Demo 1",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1556313401368649779"
+      ],
+      [
+        "VID-046",
+        "MCD2-035",
+        "Video Demo 2 — Input setup",
+        "Discord video",
+        "https://discord.com/channels/716030563122675752/1554128398564065384/1556310490681184256"
+      ]
+    ]
+  },
+  "metadata": {
+    "spreadsheetId": "1KJdOOCd2iLOpkINvLU0tgmXMtUNDr9g_4ZnTNzeGqaA",
+    "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/1KJdOOCd2iLOpkINvLU0tgmXMtUNDr9g_4ZnTNzeGqaA/edit",
+    "properties": {
+      "title": "MCD2 Glitch/Exploit/Tech Doc",
+      "locale": "en_US",
+      "timeZone": "America/New_York"
+    },
+    "sheets": [
+      {
+        "properties": {
+          "sheetId": 293026900,
+          "title": "Catalog",
+          "index": 0,
+          "sheetType": "GRID",
+          "gridProperties": {
+            "rowCount": 463,
+            "columnCount": 12,
+            "frozenRowCount": 4,
+            "hideGridlines": true
+          }
+        }
+      },
+      {
+        "properties": {
+          "sheetId": 293026903,
+          "title": "Index",
+          "index": 1,
+          "sheetType": "GRID",
+          "gridProperties": {
+            "rowCount": 1000,
+            "columnCount": 6,
+            "frozenRowCount": 4,
+            "hideGridlines": true
+          }
+        }
+      },
+      {
+        "properties": {
+          "sheetId": 293026901,
+          "title": "Entries",
+          "index": 2,
+          "sheetType": "GRID",
+          "gridProperties": {
+            "rowCount": 200,
+            "columnCount": 8,
+            "frozenRowCount": 1,
+            "frozenColumnCount": 2,
+            "hideGridlines": true
+          }
+        }
+      },
+      {
+        "properties": {
+          "sheetId": 293026902,
+          "title": "Videos",
+          "index": 3,
+          "sheetType": "GRID",
+          "gridProperties": {
+            "rowCount": 200,
+            "columnCount": 5,
+            "frozenRowCount": 1,
+            "frozenColumnCount": 2,
+            "hideGridlines": true
+          }
+        }
+      },
+      {
+        "properties": {
+          "sheetId": 0,
+          "title": "Original (archive)",
+          "index": 4,
+          "sheetType": "GRID",
+          "hidden": true,
+          "gridProperties": {
+            "rowCount": 1000,
+            "columnCount": 26,
+            "hideGridlines": true
+          }
+        }
+      }
+    ]
+  },
+  "readAt": "2026-10-04T20:46:14.231Z"
+}

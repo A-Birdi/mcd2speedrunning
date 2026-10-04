@@ -1,0 +1,61 @@
+{
+  "id": "MCD2-034",
+  "title": "Powered Door Skip",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [],
+  "subsectionIds": [
+    "powered-door"
+  ],
+  "locationStatus": "unassigned",
+  "instructions": "By doing a Standing Reverse Baron Jump from atop the powered cube pillar you can land on the adjacent wall and skip waiting for the door lowering animation.\n\nSecond video shows a method of using a regular Baron Jump from atop the Minecart station to land on the same wall, from Gardenia's POV.",
+  "notes": "",
+  "credits": {
+    "discovery": "Gardenia and Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-10-03",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-043",
+    "VID-044"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-034-method-1",
+      "title": "Imported method",
+      "instructions": "By doing a Standing Reverse Baron Jump from atop the powered cube pillar you can land on the adjacent wall and skip waiting for the door lowering animation.\n\nSecond video shows a method of using a regular Baron Jump from atop the Minecart station to land on the same wall, from Gardenia's POV.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-043",
+        "VID-044"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46298,
+    "expectedVideoCount": 2
+  }
+}

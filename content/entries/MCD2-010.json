@@ -1,0 +1,63 @@
+{
+  "id": "MCD2-010",
+  "title": "Spider Cave Reverse",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [],
+  "subsectionIds": [
+    "spider-cave"
+  ],
+  "locationStatus": "unassigned",
+  "instructions": "Doing a DuckJump with a movement speed increase, or a more difficult DuckJump at regular speed, will allow you to jump backwards through the Spider Cave, skipping a spider ambush and direct access to the quest objective ambush.",
+  "notes": "",
+  "credits": {
+    "discovery": "ExoticPanda and Album",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-014",
+    "VID-030",
+    "VID-031"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-010-method-1",
+      "title": "Imported method",
+      "instructions": "Doing a DuckJump with a movement speed increase, or a more difficult DuckJump at regular speed, will allow you to jump backwards through the Spider Cave, skipping a spider ambush and direct access to the quest objective ambush.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-014",
+        "VID-030",
+        "VID-031"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 3
+  }
+}

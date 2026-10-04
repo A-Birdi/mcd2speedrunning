@@ -1,0 +1,59 @@
+{
+  "id": "MCD2-033",
+  "title": "Frozen Fortress Blue Jukebox Exit Early",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [],
+  "subsectionIds": [
+    "frozen-fortress"
+  ],
+  "locationStatus": "unassigned",
+  "instructions": "Normally while waiting for the door to fully open, it's encased in a thick invisible wall for the animation.\n\nIf you get into the corner of the invisible wall, click to interact and roll into the door, you can skip the animation and wall wait period.",
+  "notes": "",
+  "credits": {
+    "discovery": "Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-10-03",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-042"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-033-method-1",
+      "title": "Imported method",
+      "instructions": "Normally while waiting for the door to fully open, it's encased in a thick invisible wall for the animation.\n\nIf you get into the corner of the invisible wall, click to interact and roll into the door, you can skip the animation and wall wait period.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-042"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46298,
+    "expectedVideoCount": 1
+  }
+}

@@ -1,0 +1,416 @@
+[
+  {
+    "id": "VID-001",
+    "entryId": "MCD2-001",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554450155715952682",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-002",
+    "entryId": "MCD2-001",
+    "title": "Video Demo 2",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554496180715790377",
+    "role": "Alternative method",
+    "credits": ""
+  },
+  {
+    "id": "VID-003",
+    "entryId": "MCD2-001",
+    "title": "Video Demo 3",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554499285389672538",
+    "role": "Alternative method",
+    "credits": ""
+  },
+  {
+    "id": "VID-004",
+    "entryId": "MCD2-001",
+    "title": "Video Demo 4",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1486048939302977546/1555049127115759668",
+    "role": "Alternative method",
+    "credits": ""
+  },
+  {
+    "id": "VID-005",
+    "entryId": "MCD2-002",
+    "title": "Ichor Skip",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554551813804392558",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-006",
+    "entryId": "MCD2-002",
+    "title": "Orange Skip",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554552990810243232",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-007",
+    "entryId": "MCD2-002",
+    "title": "Red Skip",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554553988874109061",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-008",
+    "entryId": "MCD2-003",
+    "title": "Video Demo 1",
+    "sourceType": "YouTube",
+    "url": "https://www.youtube.com/watch?v=AUgQXbDqRDA",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-009",
+    "entryId": "MCD2-004",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554595746194661488",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-010",
+    "entryId": "MCD2-006",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555197272877174848",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-011",
+    "entryId": "MCD2-007",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555189492955095133",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-012",
+    "entryId": "MCD2-008",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555072262393172028",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-013",
+    "entryId": "MCD2-009",
+    "title": "Video Demo 1",
+    "sourceType": "YouTube",
+    "url": "https://www.youtube.com/watch?v=npF84mR4wQc",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-014",
+    "entryId": "MCD2-010",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555034310736609330",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-015",
+    "entryId": "MCD2-011",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555033918619656252",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-016",
+    "entryId": "MCD2-012",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555025686039896114",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-017",
+    "entryId": "MCD2-013",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555019483611922435",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-018",
+    "entryId": "MCD2-014",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555007561453797418",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-019",
+    "entryId": "MCD2-015",
+    "title": "Video Demo 1",
+    "sourceType": "YouTube",
+    "url": "https://youtu.be/FcpLh03zVio",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-020",
+    "entryId": "MCD2-016",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554966950218702948",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-021",
+    "entryId": "MCD2-017",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554965063352197250",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-022",
+    "entryId": "MCD2-018",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554956972430729278",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-023",
+    "entryId": "MCD2-019",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554955927327866920",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-024",
+    "entryId": "MCD2-020",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/1515423123342627048/1553751842012405870/1554937326336086028",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-025",
+    "entryId": "MCD2-021",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554936057446015107",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-026",
+    "entryId": "MCD2-022",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554923100234063912",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-027",
+    "entryId": "MCD2-023",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554921881876832326",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-028",
+    "entryId": "MCD2-024",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1554922855110672464",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-029",
+    "entryId": "MCD2-025",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555387126961406026",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-030",
+    "entryId": "MCD2-010",
+    "title": "Video Demo 2",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555032012744691784",
+    "role": "Alternative method",
+    "credits": ""
+  },
+  {
+    "id": "VID-031",
+    "entryId": "MCD2-010",
+    "title": "Video Demo 3",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555032998657654804",
+    "role": "Alternative method",
+    "credits": ""
+  },
+  {
+    "id": "VID-032",
+    "entryId": "MCD2-009",
+    "title": "Video Demo 2",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1486048939302977546/1555185928220319846",
+    "role": "Alternative method",
+    "credits": ""
+  },
+  {
+    "id": "VID-033",
+    "entryId": "MCD2-026",
+    "title": "Video Demo 1",
+    "sourceType": "YouTube",
+    "url": "https://youtu.be/hFuo05oSusk",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-034",
+    "entryId": "MCD2-026",
+    "title": "Video Demo 2",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555007561453797418",
+    "role": "Alternative method",
+    "credits": ""
+  },
+  {
+    "id": "VID-035",
+    "entryId": "MCD2-027",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555409581172199454",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-036",
+    "entryId": "MCD2-028",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555421922206941234",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-037",
+    "entryId": "MCD2-029",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555422964676300884",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-038",
+    "entryId": "MCD2-030",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555420763853557780",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-039",
+    "entryId": "MCD2-030",
+    "title": "Video Demo 2",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555420876931997777",
+    "role": "Alternative method",
+    "credits": ""
+  },
+  {
+    "id": "VID-040",
+    "entryId": "MCD2-031",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555660336957227088",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-041",
+    "entryId": "MCD2-031",
+    "title": "Video Demo 2",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1555666600240095372",
+    "role": "Alternative method",
+    "credits": ""
+  },
+  {
+    "id": "VID-042",
+    "entryId": "MCD2-033",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1556095869487546398",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-043",
+    "entryId": "MCD2-034",
+    "title": "Video Demo 1 — Pillar",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1556098226753507416",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-044",
+    "entryId": "MCD2-034",
+    "title": "Video Demo 2 — Gardenia POV",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1556098293606645783",
+    "role": "Alternative method",
+    "credits": ""
+  },
+  {
+    "id": "VID-045",
+    "entryId": "MCD2-035",
+    "title": "Video Demo 1",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1556313401368649779",
+    "role": "Original proof",
+    "credits": ""
+  },
+  {
+    "id": "VID-046",
+    "entryId": "MCD2-035",
+    "title": "Video Demo 2 — Input setup",
+    "sourceType": "Discord video",
+    "url": "https://discord.com/channels/716030563122675752/1554128398564065384/1556310490681184256",
+    "role": "Input setup",
+    "credits": ""
+  }
+]

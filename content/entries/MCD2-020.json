@@ -1,0 +1,57 @@
+{
+  "id": "MCD2-020",
+  "title": "Monarch Skip",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [],
+  "subsectionIds": [],
+  "locationStatus": "unassigned",
+  "instructions": "Jumping up on the Ichor Core platform and up onto the wall will allow you to bypass the gate that normally requires the Monarch to be defeated and Cores to be gathered.",
+  "notes": "Possibly useful in Co-op.",
+  "credits": {
+    "discovery": "Jane Iris Clover",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-024"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-020-method-1",
+      "title": "Imported method",
+      "instructions": "Jumping up on the Ichor Core platform and up onto the wall will allow you to bypass the gate that normally requires the Monarch to be defeated and Cores to be gathered.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-024"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 1
+  }
+}

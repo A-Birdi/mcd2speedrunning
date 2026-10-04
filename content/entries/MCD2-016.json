@@ -1,0 +1,59 @@
+{
+  "id": "MCD2-016",
+  "title": "Spider Cave Ambush 1 Skip",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [],
+  "subsectionIds": [
+    "spider-cave"
+  ],
+  "locationStatus": "unassigned",
+  "instructions": "Doing a diagonal roll will allow you to jump midair around the wall and past the Ambush barrier.",
+  "notes": "Online characters can simply jump around it without rolling, but may be connection dependent.",
+  "credits": {
+    "discovery": "Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-020"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-016-method-1",
+      "title": "Imported method",
+      "instructions": "Doing a diagonal roll will allow you to jump midair around the wall and past the Ambush barrier.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-020"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 1
+  }
+}

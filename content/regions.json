@@ -1,0 +1,42 @@
+[
+  {
+    "id": "squid-coast",
+    "name": "Squid Coast"
+  },
+  {
+    "id": "brave-haven",
+    "name": "Brave Haven"
+  },
+  {
+    "id": "honeycomb-fields",
+    "name": "Honeycomb Fields"
+  },
+  {
+    "id": "howling-woods",
+    "name": "Howling Woods"
+  },
+  {
+    "id": "rainy-plains",
+    "name": "Rainy Plains"
+  },
+  {
+    "id": "frozen-highlands",
+    "name": "Frozen Highlands"
+  },
+  {
+    "id": "singer-s-meadow",
+    "name": "Singer's Meadow"
+  },
+  {
+    "id": "humbler-huskland",
+    "name": "Humbler Huskland"
+  },
+  {
+    "id": "lullaby-hills",
+    "name": "Lullaby Hills"
+  },
+  {
+    "id": "illager-stronghold",
+    "name": "Illager Stronghold"
+  }
+]

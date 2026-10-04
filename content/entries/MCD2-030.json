@@ -1,0 +1,59 @@
+{
+  "id": "MCD2-030",
+  "title": "Final Portal Ambush Cheese",
+  "aliases": [],
+  "summary": "",
+  "type": "strategy",
+  "originalCategory": "Boss strategy",
+  "regionIds": [],
+  "subsectionIds": [],
+  "locationStatus": "unassigned",
+  "instructions": "By walking up to the portal directly, all Melee enemies will follow you and die at its threshold.\n\nYou can get ranged enemies and Corrupted Minibosses like the Evoker to path up there by using a corner just a jump away at its lower right edge.",
+  "notes": "",
+  "credits": {
+    "discovery": "Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-10-01",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-038",
+    "VID-039"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-030-method-1",
+      "title": "Imported method",
+      "instructions": "By walking up to the portal directly, all Melee enemies will follow you and die at its threshold.\n\nYou can get ranged enemies and Corrupted Minibosses like the Evoker to path up there by using a corner just a jump away at its lower right edge.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-038",
+        "VID-039"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46296,
+    "expectedVideoCount": 2
+  }
+}

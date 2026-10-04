@@ -1,0 +1,59 @@
+{
+  "id": "MCD2-028",
+  "title": "Final Souldown Gold Key Door Skip",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [],
+  "subsectionIds": [
+    "final-souldown"
+  ],
+  "locationStatus": "unassigned",
+  "instructions": "Using a movement speed boosted DuckJump, you skip over to a ledge, bypassing a huge ambush and going directly into the Redstone Monstrosity fight.",
+  "notes": "You need to double back and touch the space behind the door for the objective to update.",
+  "credits": {
+    "discovery": "ExoticPanda and Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-10-01",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-036"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-028-method-1",
+      "title": "Imported method",
+      "instructions": "Using a movement speed boosted DuckJump, you skip over to a ledge, bypassing a huge ambush and going directly into the Redstone Monstrosity fight.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-036"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46296,
+    "expectedVideoCount": 1
+  }
+}

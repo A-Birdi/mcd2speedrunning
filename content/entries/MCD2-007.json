@@ -1,0 +1,59 @@
+{
+  "id": "MCD2-007",
+  "title": "Early Archie's Ruins Minecart Station",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [],
+  "subsectionIds": [
+    "archie-s-ruins"
+  ],
+  "locationStatus": "unassigned",
+  "instructions": "By doing a roll jump or DuckJump, you can scale the exterior of a wall on the outside of Archie's Ruins, which skips the need to lower the gates to access the Minecart Station.",
+  "notes": "",
+  "credits": {
+    "discovery": "Ducky",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-011"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-007-method-1",
+      "title": "Imported method",
+      "instructions": "By doing a roll jump or DuckJump, you can scale the exterior of a wall on the outside of Archie's Ruins, which skips the need to lower the gates to access the Minecart Station.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-011"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 1
+  }
+}

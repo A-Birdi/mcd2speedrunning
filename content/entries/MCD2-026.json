@@ -1,0 +1,61 @@
+{
+  "id": "MCD2-026",
+  "title": "Illager Stronghold Gold & Blue Key Door Skips",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [
+    "illager-stronghold"
+  ],
+  "subsectionIds": [],
+  "locationStatus": "partially-confirmed",
+  "instructions": "Using a movement speed boosted duckjump you can roll against a block object and jump around the wall with the gold key door.",
+  "notes": "The blue key is normally used to unlock the gold key. Skipping the gold key door therefore removes the need for both keys; no separate blue-door jump is required.",
+  "credits": {
+    "discovery": "ExoticPanda",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-033",
+    "VID-034"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-026-method-1",
+      "title": "Imported method",
+      "instructions": "Using a movement speed boosted duckjump you can roll against a block object and jump around the wall with the gold key door.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-033",
+        "VID-034"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 2
+  }
+}

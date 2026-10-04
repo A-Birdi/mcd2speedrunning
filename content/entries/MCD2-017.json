@@ -1,0 +1,59 @@
+{
+  "id": "MCD2-017",
+  "title": "Howling Woods Ravine Skip",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [
+    "howling-woods"
+  ],
+  "subsectionIds": [],
+  "locationStatus": "partially-confirmed",
+  "instructions": "Doing a DuckJump off a wall will let you skip over a gap, saving a few seconds if you land it.",
+  "notes": "Can be a roll jump through the middle, too.",
+  "credits": {
+    "discovery": "Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-021"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-017-method-1",
+      "title": "Imported method",
+      "instructions": "Doing a DuckJump off a wall will let you skip over a gap, saving a few seconds if you land it.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-021"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 1
+  }
+}

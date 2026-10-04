@@ -1,0 +1,68 @@
+{
+  "id": "MCD2-009",
+  "title": "Major Out of Bounds: Brave Haven to Rainy / Frozen Zones",
+  "aliases": [],
+  "summary": "",
+  "type": "reference",
+  "originalCategory": "Exploration",
+  "regionIds": [
+    "brave-haven"
+  ],
+  "subsectionIds": [
+    "woodcutter-s-outpost",
+    "puddle-pond",
+    "ichor-tower",
+    "shipwreck",
+    "archie-s-ruins",
+    "frozen-fortress"
+  ],
+  "locationStatus": "partially-confirmed",
+  "instructions": "Doing a co-op teleport at a wall in Brave Haven, or a hard DuckJump off the same wall can allow access to Out of Bounds on the lower half of the map.\n\nThis allows players to walk from the start of the game to Woodcutter's Outpost, and from there into the Rainy Zone, allowing access to the Thrifty Pendant talisman early, as well as Puddle Pond and Ichor Tower Minecart Stations.\n\nIt also allows access to the Frozen Zone, providing access to early Shipwreck, Archie's Ruins and Frozen Fortress Minecart stations.",
+  "notes": "",
+  "credits": {
+    "discovery": "Gardenia and Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-013",
+    "VID-032"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-009-method-1",
+      "title": "Imported method",
+      "instructions": "Doing a co-op teleport at a wall in Brave Haven, or a hard DuckJump off the same wall can allow access to Out of Bounds on the lower half of the map.\n\nThis allows players to walk from the start of the game to Woodcutter's Outpost, and from there into the Rainy Zone, allowing access to the Thrifty Pendant talisman early, as well as Puddle Pond and Ichor Tower Minecart Stations.\n\nIt also allows access to the Frozen Zone, providing access to early Shipwreck, Archie's Ruins and Frozen Fortress Minecart stations.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-013",
+        "VID-032"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 2
+  }
+}

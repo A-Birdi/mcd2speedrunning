@@ -1,0 +1,53 @@
+{
+  "id": "MCD2-005",
+  "title": "Out of Bounds",
+  "aliases": [],
+  "summary": "",
+  "type": "reference",
+  "originalCategory": "Exploration",
+  "regionIds": [],
+  "subsectionIds": [],
+  "locationStatus": "general",
+  "instructions": "In many areas of the game, it's possible to reach unintended areas either via jumping, teleports in Co-op, or falling into any out of bounds pit repeatedly without touching solid ground.",
+  "notes": "General reference note; no dedicated video is planned. Notable out-of-bounds examples are documented in the individual skip entries.",
+  "credits": {
+    "discovery": "Many People",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-29",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [],
+  "methods": [
+    {
+      "id": "MCD2-005-method-1",
+      "title": "Imported method",
+      "instructions": "In many areas of the game, it's possible to reach unintended areas either via jumping, teleports in Co-op, or falling into any out of bounds pit repeatedly without touching solid ground.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": []
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46294,
+    "expectedVideoCount": 0
+  }
+}

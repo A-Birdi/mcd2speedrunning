@@ -1,0 +1,59 @@
+{
+  "id": "MCD2-008",
+  "title": "Sift Dimension Out of Bounds",
+  "aliases": [],
+  "summary": "",
+  "type": "reference",
+  "originalCategory": "Exploration",
+  "regionIds": [],
+  "subsectionIds": [
+    "sift"
+  ],
+  "locationStatus": "unassigned",
+  "instructions": "Doing a DuckJump from atop a pillar can allow you to access a middle section, closer to a Minecart Station in the sift.",
+  "notes": "",
+  "credits": {
+    "discovery": "Album",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-012"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-008-method-1",
+      "title": "Imported method",
+      "instructions": "Doing a DuckJump from atop a pillar can allow you to access a middle section, closer to a Minecart Station in the sift.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-012"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 1
+  }
+}

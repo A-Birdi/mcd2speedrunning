@@ -1,0 +1,12 @@
+export type Requirements={mode:'all'|'any';entryIds:string[];equipment:string[];quests:string[]};
+export type Method={id:string;title:string;instructions:string;requirements:Requirements;applicability:string;credits:string;mediaIds:string[]};
+export type Entry={id:string;title:string;aliases:string[];summary:string;type:string;originalCategory:string;regionIds:string[];subsectionIds:string[];locationStatus:string;instructions:string;notes:string;credits:{discovery:string;refinement:string;footage:string;narration:string};discoveryDate:string;editorialDate:string|null;retestDate:string|null;requirements:Requirements;applicability:string;usefulness:string;evidenceStatus:string;warnings:string[];mediaIds:string[];methods:Method[];legacy?:{dateSerial:number;expectedVideoCount:number}};
+export type Media={id:string;entryId:string;title:string;sourceType:string;url:string;role:string;credits:string};
+export type Subsection={id:string;name:string;regionId:string|null;status:string;image:null|{path:string;alt:string;credit:string;focalX:number;focalY:number}};
+export type Action={id:string;title:string;entryId:string;methodId:string;requires:string[];result:string[];warnings:string;mediaIds:string[]};
+export type Choice={id:string;title:string;rationale:string;requires:string[];result:string[];next:string;actions:Action[];timing:string;reliability:string;basisDate:string};
+export type Stage={id:string;title:string;type:string;regionId:string;subsectionId:string;action:string;rationale:string;warnings:string;requires:string[];result:string[];entryId:string;methodId:string;mediaIds:string[];next:string;choices:Choice[]};
+export type Route={id:string;title:string;status:string;sample:boolean;dependencyReviewed:boolean;gameplayTested:boolean;stages:Stage[]};
+export type Catalog={meta:{schemaVersion:number;revision:string;sourceUrl:string;importedAt:string;sourceEntries:number;sourceVideos:number};regions:{id:string;name:string}[];subsections:Subsection[];entries:Entry[];videos:Media[];routes:Route[]};
+export type Asset={path:string;data:string};
+export type Draft={schemaVersion:number;baseRevision:string;catalog:Catalog;assets:Asset[]};

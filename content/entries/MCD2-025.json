@@ -1,0 +1,59 @@
+{
+  "id": "MCD2-025",
+  "title": "Sculk Music Door Skip w/ Lineup",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [],
+  "subsectionIds": [
+    "sculk-music-door"
+  ],
+  "locationStatus": "unassigned",
+  "instructions": "Get stuck on the lower edge between this 3 block structure, line up your cursor with the upper-right gray pixel in the block texture, then DuckJump and steer midair.",
+  "notes": "You must free the trapped Tuners from the cages, but you don't need to carry them all back by doing this.",
+  "credits": {
+    "discovery": "Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-10-01",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-029"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-025-method-1",
+      "title": "Imported method",
+      "instructions": "Get stuck on the lower edge between this 3 block structure, line up your cursor with the upper-right gray pixel in the block texture, then DuckJump and steer midair.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-029"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46296,
+    "expectedVideoCount": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "MCD2-021",
+  "title": "Invalid Teleport State",
+  "aliases": [],
+  "summary": "",
+  "type": "reference",
+  "originalCategory": "Exploration",
+  "regionIds": [],
+  "subsectionIds": [],
+  "locationStatus": "unassigned",
+  "instructions": "By starting a Teleport to Brave Haven solo, then returning to the Main Menu and rejoining the game, your character is put into a stuck/invalid/fake teleporting state that prevents Out of Bounds triggers from teleporting you back up.",
+  "notes": "",
+  "credits": {
+    "discovery": "Album",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-025"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-021-method-1",
+      "title": "Imported method",
+      "instructions": "By starting a Teleport to Brave Haven solo, then returning to the Main Menu and rejoining the game, your character is put into a stuck/invalid/fake teleporting state that prevents Out of Bounds triggers from teleporting you back up.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-025"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 1
+  }
+}

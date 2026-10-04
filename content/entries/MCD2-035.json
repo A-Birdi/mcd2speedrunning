@@ -1,0 +1,59 @@
+{
+  "id": "MCD2-035",
+  "title": "Hyper Baron Slide / Hyper Baron Jump",
+  "aliases": [],
+  "summary": "",
+  "type": "tech",
+  "originalCategory": "Movement",
+  "regionIds": [],
+  "subsectionIds": [],
+  "locationStatus": "general",
+  "instructions": "By having the Somersault enchantment, which grants you an additional roll, and pressing both rolls together (or both rolls having the same input), you can do an extended Hyper Baron Slide or Hyper Baron Jump.",
+  "notes": "Jump timing: After initiating a Baron Slide or Hyper Baron Slide, there is a brief window to input jump; jumping does not have to be simultaneous with the roll. You can roll off platforms or cliffs, or over pits, and still jump midair.\n\nFPS: Slide distance in both variants depends on FPS. Around 60 FPS is ideal for noticeably greater initial momentum.",
+  "credits": {
+    "discovery": "Baron_2333",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-10-04",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-045",
+    "VID-046"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-035-method-1",
+      "title": "Imported method",
+      "instructions": "By having the Somersault enchantment, which grants you an additional roll, and pressing both rolls together (or both rolls having the same input), you can do an extended Hyper Baron Slide or Hyper Baron Jump.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-045",
+        "VID-046"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46299,
+    "expectedVideoCount": 2
+  }
+}

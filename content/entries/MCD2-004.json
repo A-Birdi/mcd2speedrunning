@@ -1,0 +1,57 @@
+{
+  "id": "MCD2-004",
+  "title": "Prime Enchanter Instakill",
+  "aliases": [],
+  "summary": "",
+  "type": "strategy",
+  "originalCategory": "Boss strategy",
+  "regionIds": [],
+  "subsectionIds": [],
+  "locationStatus": "unassigned",
+  "instructions": "Utilizing a Jump Pad Boost to cross slightly further into the very center of the boss arena will have you respawn at the Jump Pad and initiate the fight\n\nThis must be done after Restarting from Checkpoint once, to return to the Jump Pad.\n\nAfter waiting some time, or doing another Jump Pad Boost, the boss will target you with an electric dive bomb. Wait on the edge for the electricity, then walk around the jump pad.\n\nOnce the boss lands near the Jump pad, he'll try to punch you, run into the jump pad himself and perish in the pit, as he does not clear the jump.\n\nAlternatively, if he misses the jump pad, stay near the edge and he'll do a flying lunge / straight dive attack and can fall off the edge from there that way.",
+  "notes": "",
+  "credits": {
+    "discovery": "Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-29",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-009"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-004-method-1",
+      "title": "Imported method",
+      "instructions": "Utilizing a Jump Pad Boost to cross slightly further into the very center of the boss arena will have you respawn at the Jump Pad and initiate the fight\n\nThis must be done after Restarting from Checkpoint once, to return to the Jump Pad.\n\nAfter waiting some time, or doing another Jump Pad Boost, the boss will target you with an electric dive bomb. Wait on the edge for the electricity, then walk around the jump pad.\n\nOnce the boss lands near the Jump pad, he'll try to punch you, run into the jump pad himself and perish in the pit, as he does not clear the jump.\n\nAlternatively, if he misses the jump pad, stay near the edge and he'll do a flying lunge / straight dive attack and can fall off the edge from there that way.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-009"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46294,
+    "expectedVideoCount": 1
+  }
+}

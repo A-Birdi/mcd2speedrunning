@@ -1,0 +1,57 @@
+{
+  "id": "MCD2-011",
+  "title": "FPS Tech: Increase roll distance",
+  "aliases": [],
+  "summary": "",
+  "type": "tech",
+  "originalCategory": "Movement",
+  "regionIds": [],
+  "subsectionIds": [],
+  "locationStatus": "general",
+  "instructions": "Lower framerates allow a slight increase in roll distance, by about 1/5th of a block at 24FPS.",
+  "notes": "",
+  "credits": {
+    "discovery": "Album",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-015"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-011-method-1",
+      "title": "Imported method",
+      "instructions": "Lower framerates allow a slight increase in roll distance, by about 1/5th of a block at 24FPS.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-015"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 1
+  }
+}

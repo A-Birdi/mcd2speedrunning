@@ -1,0 +1,2 @@
+import fs from 'node:fs';
+export function load(){const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));return{meta:read('content/meta.json'),regions:read('content/regions.json'),subsections:read('content/subsections.json'),videos:read('content/videos.json'),entries:fs.readdirSync('content/entries').filter(p=>p.endsWith('.json')).sort().map(p=>read('content/entries/'+p)),routes:fs.readdirSync('content/routes').filter(p=>p.endsWith('.json')).sort().map(p=>read('content/routes/'+p))};}

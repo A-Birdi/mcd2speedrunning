@@ -1,0 +1,100 @@
+[
+  {
+    "id": "ichor-tower",
+    "name": "Ichor Tower",
+    "regionId": null,
+    "image": null,
+    "status": "Location to confirm"
+  },
+  {
+    "id": "orange-tower",
+    "name": "Orange Tower",
+    "regionId": null,
+    "image": null,
+    "status": "Location to confirm"
+  },
+  {
+    "id": "red-tower",
+    "name": "Red Tower",
+    "regionId": null,
+    "image": null,
+    "status": "Location to confirm"
+  },
+  {
+    "id": "frozen-fortress",
+    "name": "Frozen Fortress",
+    "regionId": null,
+    "image": null,
+    "status": "Location to confirm"
+  },
+  {
+    "id": "archie-s-ruins",
+    "name": "Archie's Ruins",
+    "regionId": null,
+    "image": null,
+    "status": "Location to confirm"
+  },
+  {
+    "id": "sift",
+    "name": "Sift",
+    "regionId": null,
+    "image": null,
+    "status": "Location to confirm"
+  },
+  {
+    "id": "woodcutter-s-outpost",
+    "name": "Woodcutter’s Outpost",
+    "regionId": null,
+    "image": null,
+    "status": "Location to confirm"
+  },
+  {
+    "id": "puddle-pond",
+    "name": "Puddle Pond",
+    "regionId": null,
+    "image": null,
+    "status": "Location to confirm"
+  },
+  {
+    "id": "shipwreck",
+    "name": "Shipwreck",
+    "regionId": null,
+    "image": null,
+    "status": "Location to confirm"
+  },
+  {
+    "id": "spider-cave",
+    "name": "Spider Cave",
+    "regionId": null,
+    "image": null,
+    "status": "Location to confirm"
+  },
+  {
+    "id": "deep-dark",
+    "name": "Deep Dark",
+    "regionId": null,
+    "image": null,
+    "status": "Location to confirm"
+  },
+  {
+    "id": "sculk-music-door",
+    "name": "Sculk Music Door",
+    "regionId": null,
+    "image": null,
+    "status": "Location to confirm"
+  },
+  {
+    "id": "final-souldown",
+    "name": "Final Souldown",
+    "regionId": null,
+    "image": null,
+    "status": "Location to confirm"
+  },
+  {
+    "id": "powered-door",
+    "name": "Powered Door",
+    "regionId": null,
+    "image": null,
+    "status": "Location to confirm"
+  }
+]

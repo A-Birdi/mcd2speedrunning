@@ -1,0 +1,57 @@
+{
+  "id": "MCD2-022",
+  "title": "100% Consistent Prime Enchanter Instakill",
+  "aliases": [],
+  "summary": "",
+  "type": "strategy",
+  "originalCategory": "Boss strategy",
+  "regionIds": [],
+  "subsectionIds": [],
+  "locationStatus": "unassigned",
+  "instructions": "By moving forward normally into the Jump Pad, then rolling directly backwards, your character will fly farther than intended due to stacking momentum added by the Jump Pad over multiple frames of contact.\n\nWhen your character is over the pit in the middle, you can open a Menu or the Mini-Inventory to stop momentum and drop straight down, into the pit, which causes a respawn back at the Jump Pad while starting the fight.\n\nThe Prime Enchanter will then be aggro'd and teleport to you eventually, allowing you to walk around the Jump Pad, forcing him to walk into it and fall into the pit, killing him instantly.",
+  "notes": "This works best for Offline characters, as the Jump Pad boost is inconsistent across all players and Offline mode.",
+  "credits": {
+    "discovery": "Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-026"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-022-method-1",
+      "title": "Imported method",
+      "instructions": "By moving forward normally into the Jump Pad, then rolling directly backwards, your character will fly farther than intended due to stacking momentum added by the Jump Pad over multiple frames of contact.\n\nWhen your character is over the pit in the middle, you can open a Menu or the Mini-Inventory to stop momentum and drop straight down, into the pit, which causes a respawn back at the Jump Pad while starting the fight.\n\nThe Prime Enchanter will then be aggro'd and teleport to you eventually, allowing you to walk around the Jump Pad, forcing him to walk into it and fall into the pit, killing him instantly.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-026"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 1
+  }
+}

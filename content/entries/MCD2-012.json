@@ -1,0 +1,59 @@
+{
+  "id": "MCD2-012",
+  "title": "Orange Tower Ambush Skip",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [],
+  "subsectionIds": [
+    "orange-tower"
+  ],
+  "locationStatus": "unassigned",
+  "instructions": "By doing a DuckJump off a barrel and onto a crate, you can skip the first floor Ambush.",
+  "notes": "",
+  "credits": {
+    "discovery": "Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-30",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-016"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-012-method-1",
+      "title": "Imported method",
+      "instructions": "By doing a DuckJump off a barrel and onto a crate, you can skip the first floor Ambush.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-016"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46295,
+    "expectedVideoCount": 1
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "MCD2-024",
+  "title": "Frozen Fortress Ambush 2 Skip",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [],
+  "subsectionIds": [
+    "frozen-fortress"
+  ],
+  "locationStatus": "unassigned",
+  "instructions": "By jumping around a corner over a pit, an Ambush is skipped in Frozen Fortress.",
+  "notes": "",
+  "credits": {
+    "discovery": "Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-09-29",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-028"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-024-method-1",
+      "title": "Imported method",
+      "instructions": "By jumping around a corner over a pit, an Ambush is skipped in Frozen Fortress.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-028"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46294,
+    "expectedVideoCount": 1
+  }
+}

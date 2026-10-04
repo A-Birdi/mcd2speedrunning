@@ -1,0 +1,57 @@
+{
+  "id": "MCD2-029",
+  "title": "Final Music Door Skip",
+  "aliases": [],
+  "summary": "",
+  "type": "skip",
+  "originalCategory": "Route skips",
+  "regionIds": [],
+  "subsectionIds": [],
+  "locationStatus": "unassigned",
+  "instructions": "Requires doing one ambush for the purple Tuner.\n\nYou don't need to pick any Tuners up; just run over them for the objective. Path in a circle and, when reaching the third one, continue farther to the floating islands.\n\nPositioned against the wall at the Jump Pad, walk laterally straight right and roll on the first frame you would be launched. This skews your launch trajectory, landing you on the upper wall. From there, carefully walk past the Music Door.",
+  "notes": "The lineup is tricky and requires practice for timing and angle. Further refinement of the strategy could help.",
+  "credits": {
+    "discovery": "Birdi",
+    "refinement": "",
+    "footage": "",
+    "narration": ""
+  },
+  "discoveryDate": "2026-10-01",
+  "editorialDate": null,
+  "retestDate": null,
+  "requirements": {
+    "mode": "all",
+    "entryIds": [],
+    "equipment": [],
+    "quests": []
+  },
+  "applicability": "Unknown — see source caveats",
+  "usefulness": "Unknown",
+  "evidenceStatus": "Imported source; not independently retested",
+  "warnings": [],
+  "mediaIds": [
+    "VID-037"
+  ],
+  "methods": [
+    {
+      "id": "MCD2-029-method-1",
+      "title": "Imported method",
+      "instructions": "Requires doing one ambush for the purple Tuner.\n\nYou don't need to pick any Tuners up; just run over them for the objective. Path in a circle and, when reaching the third one, continue farther to the floating islands.\n\nPositioned against the wall at the Jump Pad, walk laterally straight right and roll on the first frame you would be launched. This skews your launch trajectory, landing you on the upper wall. From there, carefully walk past the Music Door.",
+      "requirements": {
+        "mode": "all",
+        "entryIds": [],
+        "equipment": [],
+        "quests": []
+      },
+      "applicability": "Unknown — see source caveats",
+      "credits": "",
+      "mediaIds": [
+        "VID-037"
+      ]
+    }
+  ],
+  "legacy": {
+    "dateSerial": 46296,
+    "expectedVideoCount": 1
+  }
+}
