@@ -4,7 +4,9 @@ header {
   isolation: isolate;
   --header-overlap: clamp(110px, 11vw, 160px);
   /* Translucent controls mute this static backdrop without a runtime blur. */
-  background: #121d2d url('./assets/mcd2-header-banner.png') center bottom / cover no-repeat;
+  background:
+    linear-gradient(#121d2d59, #121d2d59),
+    #121d2d url('./assets/mcd2-header-banner.png') center bottom / cover no-repeat;
 }
 
 .header-art {
