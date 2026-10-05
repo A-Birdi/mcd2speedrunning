@@ -2,6 +2,7 @@
 header {
   position: relative;
   isolation: isolate;
+  --header-overlap: clamp(110px, 11vw, 160px);
 }
 
 /* A separate soft backdrop carries the artwork through the toolbar and tabs. */
@@ -20,7 +21,7 @@ header::before {
 .header-art {
   position: relative;
   z-index: 1;
-  width: min(100%, 2048px);
+  width: 100%;
   aspect-ratio: 2048 / 682;
   min-height: 180px;
   margin-inline: auto;
@@ -29,8 +30,8 @@ header::before {
   background: #0f1724;
   /* The natural ratio shows the whole top; narrow screens crop only the sides. */
   --banner-position: 52% 0%;
-  /* Leave the embedded lower-center title and tagline completely uncovered. */
-  --soul-perimeter: radial-gradient(ellipse 38% 75% at 52% 70%, transparent 85%, #000 140%);
+  /* The revised artwork puts its title and tagline in the upper left. */
+  --soul-perimeter: radial-gradient(ellipse 35% 60% at 14% 16%, transparent 85%, #000 140%);
 }
 
 .header-banner {
@@ -82,4 +83,20 @@ header::before {
   position: relative;
   z-index: 1;
   background: #121d2dd9;
+}
+
+/* Move both rows together so wrapped tabs still contribute their normal height. */
+.header-controls {
+  position: relative;
+  z-index: 2;
+  margin-top: calc(-1 * var(--header-overlap));
+  min-height: var(--header-overlap);
+}
+
+@media (max-width: 760px) {
+  header { --header-overlap: 90px; }
+  .header-art {
+    --banner-position: 0% 0%;
+    --soul-perimeter: radial-gradient(ellipse 65% 60% at 22% 16%, transparent 85%, #000 140%);
+  }
 }
