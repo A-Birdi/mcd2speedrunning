@@ -1,21 +1,10 @@
-/* The supplied artwork stays sharp; only separate perimeter layers are filtered. */
+/* Static artwork and simple gradients avoid large filtered/masked scroll surfaces. */
 header {
   position: relative;
   isolation: isolate;
   --header-overlap: clamp(110px, 11vw, 160px);
-}
-
-/* A separate soft backdrop carries the artwork through the toolbar and tabs. */
-header::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  z-index: 0;
-  background: url('./assets/mcd2-header-banner.png') center bottom / cover no-repeat;
-  filter: blur(12px);
-  opacity: .65;
-  clip-path: inset(0);
-  pointer-events: none;
+  /* Translucent controls mute this static backdrop without a runtime blur. */
+  background: #121d2d url('./assets/mcd2-header-banner.png') center bottom / cover no-repeat;
 }
 
 .header-art {
@@ -31,7 +20,7 @@ header::before {
   /* The natural ratio shows the whole top; narrow screens crop only the sides. */
   --banner-position: 52% 0%;
   /* The revised artwork puts its title and tagline in the upper left. */
-  --soul-perimeter: radial-gradient(ellipse 35% 60% at 14% 16%, transparent 85%, #000 140%);
+  --soul-vignette: radial-gradient(ellipse 35% 60% at 14% 16%, transparent 85%, #0f1724a6 140%);
 }
 
 .header-banner {
@@ -42,7 +31,6 @@ header::before {
   object-position: var(--banner-position);
 }
 
-.header-art::before,
 .soul-vignette,
 .header-art::after {
   content: '';
@@ -51,28 +39,15 @@ header::before {
   pointer-events: none;
 }
 
-@supports (mask-image: radial-gradient(transparent, #000)) {
-  .header-art::before {
-    z-index: 1;
-    background: url('./assets/mcd2-header-banner.png') var(--banner-position) / cover no-repeat;
-    filter: blur(2.5px);
-    opacity: .7;
-    mask-image: var(--soul-perimeter);
-  }
-}
-
 .soul-vignette {
-  z-index: 2;
+  z-index: 1;
   background:
-    radial-gradient(ellipse at 12% 12%, #67d6ed18, transparent 55%),
-    radial-gradient(ellipse at 88% 35%, #3878951a, transparent 52%),
-    linear-gradient(90deg, #0f1724d9, #0f172455 24%, transparent 42%, transparent 64%, #0f172488 82%, #0f1724e6),
-    linear-gradient(180deg, #0f172455, transparent 40%, transparent 86%, #121d2d);
-  mask-image: var(--soul-perimeter);
+    radial-gradient(ellipse at 88% 35%, #38789512, transparent 52%),
+    var(--soul-vignette);
 }
 
 .header-art::after {
-  z-index: 3;
+  z-index: 2;
   top: auto;
   height: 8px;
   background: linear-gradient(transparent, #121d2d);
@@ -97,6 +72,6 @@ header::before {
   header { --header-overlap: 90px; }
   .header-art {
     --banner-position: 0% 0%;
-    --soul-perimeter: radial-gradient(ellipse 65% 60% at 22% 16%, transparent 85%, #000 140%);
+    --soul-vignette: radial-gradient(ellipse 65% 60% at 22% 16%, transparent 85%, #0f1724a6 140%);
   }
 }
